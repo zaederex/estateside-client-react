@@ -1,0 +1,84 @@
+.wbdv-privacy-policy {
+    height:100%;
+    width:100%;
+}
+
+.privacy-top-bar {
+    position:absolute;
+    top:0px;
+    left:10px;
+    height:150px;
+    right:10px;
+    overflow:hidden;
+}
+
+.wbdv-privacy-heading {
+    color: white;
+}
+
+.privacy-body {
+    /*position:absolute;*/
+    top:150px;
+    bottom:150px;
+    left:0px;
+    right:0px;
+    overflow:auto;
+    color: white;
+}
+
+
+.wbdv-contact-us {
+    height:100%;
+    width:100%;
+}
+
+.contact-top-bar {
+    position:absolute;
+    top:0px;
+    left:10px;
+    height:150px;
+    right:10px;
+    overflow:hidden;
+}
+
+.wbdv-contact-heading {
+    color: white;
+}
+
+.contact-body {
+    /*position:absolute;*/
+    top:150px;
+    bottom:150px;
+    left:0px;
+    right:0px;
+    overflow:auto;
+    color: white;
+}
+
+.wbdv-about-us {
+    height:100%;
+    width:100%;
+}
+
+.about-top-bar {
+    position:absolute;
+    top:0px;
+    left:10px;
+    height:150px;
+    right:10px;
+    overflow:hidden;
+}
+
+.wbdv-about-heading {
+    color: white;
+}
+
+.about-body {
+    /*position:absolute;*/
+    top:150px;
+    bottom:150px;
+    left:0px;
+    right:0px;
+    overflow:auto;
+    color: white;
+}

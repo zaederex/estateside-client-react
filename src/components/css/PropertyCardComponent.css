@@ -1,0 +1,54 @@
+.wbdv-hyperlink {
+    text-decoration: none !important;
+}
+
+.wbdv-property-card {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.wbdv-like-count {
+    color: darksalmon;
+    font-size: 16px;
+}
+
+.wbdv-property-card-icon {
+    margin-left: 0px;
+    color: dodgerblue;
+    position: relative;
+    padding-top: 4px;
+}
+
+.wbdv-property-card-icon-position{
+    position: relative;
+    bottom: -4px;
+}
+
+.wbdv-fav-property-icon-active {
+    margin-left: 10px;
+    color: orange;
+    position: relative;
+    top: 0px;
+}
+
+
+.wbdv-fav-property-icon-inactive {
+    margin-left: 10px;
+    color: grey;
+    position: relative;
+    top: 0px;
+}
+
+.wbdv-landlord-card-icon {
+    color: dodgerblue;
+    margin-left: 10px;
+    position: relative;
+    top: 0px;
+}
+
+.wbdv-landlord-card-icon-trash {
+    color: dodgerblue;
+    margin-left: 10px;
+    position: relative;
+    top: 4px;
+}

@@ -1,0 +1,73 @@
+.wbdv-help {
+    height:100%;
+    width:100%;
+    display: block;
+}
+
+.help-top-bar {
+    position:absolute;
+    top:0px;
+    left:10px;
+    height:150px;
+    right:10px;
+    overflow:hidden;
+}
+
+.wbdv-help-heading {
+    color: white;
+}
+
+.help-body {
+    /*position:absolute;*/
+    top:150px;
+    bottom:150px;
+    left:0px;
+    right:0px;
+    overflow:auto;
+    color: white;
+    padding: 5px;
+}
+
+#footer {
+    bottom:0px;
+    height:100px;
+    left:10px;
+    right:10px;
+    overflow:hidden;
+    color: white;
+    padding-top: 50px;
+}
+
+#q1,#q2,#q3,#q4,#q5,#q6,#q7,#q8,#q9,#q10,#q11,#q12,#q13,#q14,#content {
+    display:none;
+    padding: 2px;
+    font-size: large;
+}
+#q1:checked~#content{display:block;}
+#q2:checked~#content{display:block;}
+#q3:checked~#content{display:block;}
+#q4:checked~#content{display:block;}
+#q5:checked~#content{display:block;}
+#q6:checked~#content{display:block;}
+#q7:checked~#content{display:block;}
+#q8:checked~#content{display:block;}
+#q9:checked~#content{display:block;}
+#q10:checked~#content{display:block;}
+#q11:checked~#content{display:block;}
+#q12:checked~#content{display:block;}
+#q13:checked~#content{display:block;}
+#q14:checked~#content{display:block;}
+
+.panel-group {
+    font-size: larger;
+}
+
+.panel-default {
+    padding: 5px;
+}
+
+.container {
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+}
